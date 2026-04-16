@@ -1,0 +1,7 @@
+scaler.pkl
+savings_model.pkl
+pca.pkl
+model_features.pkl
+.venv/
+__pycache__/
+.ipynb_checkpoints/
